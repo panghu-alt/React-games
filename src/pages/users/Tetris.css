@@ -1,0 +1,11 @@
+.Back
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.controlBoard
+{
+   background-color: antiquewhite;
+}
